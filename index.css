@@ -1,0 +1,24 @@
+h1 {
+    color:rebeccapurple;
+   font-style:italic;
+    padding: 19px;
+    font-family :verdana;
+    text-decoration: underline;
+}
+p{
+    font-weight: bold;
+    color:black;
+
+}
+
+body {
+    border: 2px solid black; 
+    padding: 20px; 
+    line-height: 1.6;
+    background-color: rgb(228, 214, 224);
+    
+}
+nav{
+    font-weight: bold;
+
+}
